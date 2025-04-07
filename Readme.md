@@ -1,4 +1,4 @@
-h1>Mall Customers Data Cleaning and Segmentation</h1>
+<h1>Mall Customers Data Cleaning and Segmentation</h1>
 
 <p>
   This project is part of my data analytics internship, where I performed data cleaning and customer segmentation on the <strong>Mall Customers dataset</strong> using Microsoft Excel.
